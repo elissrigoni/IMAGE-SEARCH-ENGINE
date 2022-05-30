@@ -1,5 +1,8 @@
 # IMAGE_SEARCH_ENGINE
 
+In this file is displayed our attempt to train a convolutional neural network for image classification using transfer learning.
+The model constructed was then adapted to the purpose of developing an image search engine able to rank images with regard to their similarity. 
+
 ## TRANSFER LEARNING FOR COMPUTER (using Pythorch)
 
       # Imports here
